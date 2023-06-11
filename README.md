@@ -1,10 +1,12 @@
 ### Hi there 👋
+**About me:**\
 I'm a software enginner student📓, currently I have interest in technologies like:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,cpp" />
   </a>
 </p>
+
 <!--
 **JavaSamurai9/JavaSamurai9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning ...
